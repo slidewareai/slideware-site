@@ -25,3 +25,6 @@ a:focus-visible { outline: 3px solid #F2C14E; outline-offset: 4px; border-radius
 .legal ul { padding-left: 1.25rem; }
 .legal li + li { margin-top: 6px; }
 .legal strong { color: #F4EEDC; }
+
+/* Trademark symbol on the header brand name */
+.tm { font-size: 0.45em; vertical-align: super; margin-left: 2px; line-height: 0; }
